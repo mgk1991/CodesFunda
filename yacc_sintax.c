@@ -6,3 +6,7 @@
 
 %% 
 regla gramatical 		acción en C 
+
+%token			 IF,ELSE,LLAVE_AB,LLAVE_CE,IDENT
+
+no_terminal: 		componentes {acciones en C}
